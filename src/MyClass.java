@@ -32,4 +32,6 @@ public class MyClass {
 
     public String str11 = "There is going to be a conflict.";
 
+    public String str12 = "Some string";
+
 }
