@@ -29,4 +29,6 @@ public class MyClass {
     //Even more changes
     public String str10 = "2000 years later";
 
+    public Integer stuff = 1;
+
 }
