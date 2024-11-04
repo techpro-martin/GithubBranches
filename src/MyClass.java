@@ -26,4 +26,6 @@ public class MyClass {
     //More changes
     public String str9 = "Here are even more changes";
 
+    //Conflicting part, some more changes
+    public Integer myInteger = 2000;
 }
