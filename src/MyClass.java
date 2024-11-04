@@ -25,7 +25,8 @@ public class MyClass {
 
     //More changes
     public String str9 = "Here are even more changes";
+    
+    //Even more changes
+    public String str10 = "2000 years later";
 
-    //Conflicting part, some more changes
-    public Integer myInteger = 2000;
 }
