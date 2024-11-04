@@ -20,5 +20,7 @@ public class MyClass {
     //Techpro Branch, some changes
     public String str7 = "Here are some changes";
 
+    //Techpro Branch, some changes
+    public String str8 = "Here are some other changes";
 
 }
