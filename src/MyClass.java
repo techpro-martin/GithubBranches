@@ -4,4 +4,7 @@ public class MyClass {
 
     //Version 2
     public String str2 = "This is another String";
+
+    //Version 3
+    public String str3 = "This is another String";
 }
