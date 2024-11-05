@@ -8,4 +8,7 @@ public class AnotherClass {
   //Remote version r1
   public String str1 = "This is a String";
 
+  //Remote version r2
+  public String str2 = "This is another String";
+
 }
