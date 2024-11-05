@@ -34,4 +34,6 @@ public class MyClass {
 
     public String str12 = "Some string";
 
+    //Changes
+    public String str13 = "Some changes";
 }
